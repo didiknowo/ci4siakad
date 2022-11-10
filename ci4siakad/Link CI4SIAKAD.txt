@@ -1,0 +1,11 @@
+Link CI4SIAKAD
+---------------------
+https://drive.google.com/file/d/1tJ-wbK3fiR2NJRJCcm93GqXp1D8Q5jFL/view?usp=share_link
+
+SIAKAD merupakan aplikasi sederhana CRUD dan dalam pembuatannya menggunakan
+Framework Codeigniter 4
+ 
+LOGIN
+------------------------
+Username : admin
+Password : 123 
